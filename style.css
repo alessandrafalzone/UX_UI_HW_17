@@ -1,0 +1,68 @@
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Avenir', Helvetica, sans-serif;
+}
+
+#blueheader {
+    background-color: #BCDDDD;
+    color: darkslategrey;
+    height: 250px;
+    text-align: center;
+    padding-top: 75px;
+}
+
+.nav {
+    background-color: #BCDDDD;
+}
+
+.nav-link {
+    color: darkslategrey;
+}
+
+.cream {
+    background-color: #F5F1EF;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.cream h4 {
+    color: #B2AEAB;
+}
+
+#news {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.slate {
+    background-color: #DEDAD8;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.caption {
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 14px;
+}
+.big {
+    font-size: 18px;
+}
+#researchblurb {
+    padding-top: 20px;
+}
+#gatheringdata {
+    background-color: #FFFFFF;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+#gatheringdatadescription > p {
+    position: absolute;                  
+    bottom: 8em;                          
+    left: 0;   
+}
+#problemcaption {
+padding-right: 45em;
+}
+#cosmesticreiterationcaption {
+    padding-left: 500px ;
+    padding-right: 100px;
+}
